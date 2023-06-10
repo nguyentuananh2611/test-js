@@ -1,0 +1,23 @@
+.pagination li .inactive {
+    display: none;
+}
+
+#div1 {
+    width: 400px;
+    margin:  20px auto;
+}
+
+#div1 h3 {
+    background-color: rgb(162,206,103);
+    color: #fff;
+}
+
+#div1 div {
+    margin: 10px;
+}
+
+#div1  input {
+    width: 100%;
+}
+
+
